@@ -1,0 +1,8 @@
+.text-justify{
+    text-align: justify;
+    width: 350px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
